@@ -1,0 +1,39 @@
+{
+    "skin": [
+        {
+            "id": null,
+            "nombre": "Alan Wakeeee",
+            "descripcion": "Novelista de exito atormentado por sus propias historias retorcidas.",
+            "tipo": "Epico",
+            "precio": 9.99,
+            "color": "Marrón",
+            "disponible": 1
+        },
+        {
+            "id": 2,
+            "nombre": "Jack Skelletonn",
+            "descripcion": "Leyenda de la Ciudad de Halloween.",
+            "tipo": "Epico",
+            "precio": 9.99,
+            "color": "Negro",
+            "disponible": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Palito de pantanoo",
+            "descripcion": "Acecha desde el oscuro lodazal. en el pantano vivia un pez. en el pez vivía un pantano. pantano y pez eran uno. ¿dónde acaba el pez y empieza el pantano? el pantano lo sabe. el pantano lo sabe todo.",
+            "tipo": "Raro",
+            "precio": 4.99,
+            "color": "Marrón",
+            "disponible": 1
+        },{
+            "id": 4,
+            "nombre": "Kyra campeonaa",
+            "descripcion": "No le asusta hacer lo necesario para conseguir la corona.",
+            "tipo": "Poco comun",
+            "precio": 9.99,
+            "color": "Multicolor",
+            "disponible": 1
+        }
+    ]
+}
